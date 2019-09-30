@@ -1,0 +1,21 @@
+{
+  "name": "mocking",
+  "version": "1.0.0",
+  "description": "An activity to learn more about schema mocking with Apollo Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon . -e js,json,graphql"
+  },
+  "keywords": [
+    "graphql",
+    "apollo",
+    "server"
+  ],
+  "author": "Moon Highway",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.9.4",
+    "graphql": "^14.5.8",
+    "nodemon": "^1.19.3"
+  }
+}
